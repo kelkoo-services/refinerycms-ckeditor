@@ -1,6 +1,6 @@
 /*
 Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
-For licensing, see LICENSE.html or http://ckeditor.com/license
+For licensing, see LICENSE.md or http://ckeditor.com/license
 */
 
 body
@@ -26,12 +26,12 @@ body
 
 blockquote
 {
-	font-style: italic;
-	font-family: Georgia, Times, "Times New Roman", serif;
-	padding: 2px 0;
-	border-style: solid;
-	border-color: #ccc;
-	border-width: 0;
+    font-style: italic;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    padding: 2px 0;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 0;
 }
 
 .cke_contents_ltr blockquote
